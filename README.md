@@ -1,14 +1,14 @@
 # Hi there, I'm Chaiti Das 👋
 
 🎓 **Computer Science & Engineering Student at BGC Trust University Bangladesh (BGCTUB)**  
-💻 **Full-Stack Web Developer** passionate about building real-world software solutions and centralizing information platforms.  
+💻 Passionate about building real-world software solutions and centralizing information platforms.  
 🤖 Currently expanding my expertise into **Machine Learning & Artificial Intelligence**.
 
 ---
 
 ### 🚀 Highlighted Projects
 
-- **[Admission Helper Platform](https://github.com/dchaity/admissionhelper)**  
+- **[Admission Helper Platform](https://github.com/dchaity/admission-helper)**  
   *A full-stack web application designed to centralize university admission criteria, eligibility requirements, and deadlines for Bangladeshi students.*  
   `Tech Stack: PHP, MySQL, JavaScript, HTML5, CSS3`
 
@@ -37,8 +37,8 @@
 
 ### 📊 GitHub Stats
 
-![Chaiti's GitHub Stats](https://github-readme-stats.vercel.app/api?username=dchaity&show_icons=true&theme=radial)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dchaity&layout=compact&theme=radial)
+![Chaiti's GitHub Stats](https://github-readme-stats.vercel.app/api?username=dchaity&show_icons=true&theme=dark&hide_border=false)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dchaity&layout=compact&theme=dark)
 
 ---
 
