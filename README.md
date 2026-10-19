@@ -6,7 +6,7 @@
 
 <br>
 
-[![Website](https://img.shields.io/badge/Portfolio-dchaity.github.io-7c6b9b?style=for-the-badge&logo=googlechrome&logoColor=white)](https://dchaity.github.io)
+[![Website](https://img.shields.io/badge/Portfolio-dchaity.github.io-7c6b9b?style=for-the-badge&logo=googlechrome&logoColor=white)](https://heroic-nougat-b52166.netlify.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Chaiti_Das-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chaity-das-682bb32a3)
 [![Email](https://img.shields.io/badge/Email-dchaity240@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dchaity240@gmail.com)
 
@@ -62,7 +62,7 @@ A university research project evaluating how machine learning models generalize 
 ### 🎨 Personal Portfolio Website
 A modern, fully responsive portfolio showcasing my education, projects, skills, and learning journey. Features dark mode, typing animation, particle background, scroll reveals, and an interactive HTML CV.
 
-- 🌐 **Live:** [dchaity.github.io](https://heroic-nougat-b52166.netlify.app)
+- 🌐 **Live:** [https://heroic-nougat-b52166.netlify.app](https://heroic-nougat-b52166.netlify.app)
 - 🛠 **Tech Stack:** HTML5 · CSS3 · JavaScript · Particles.js
 
 ---
