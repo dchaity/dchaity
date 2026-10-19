@@ -62,7 +62,7 @@ A university research project evaluating how machine learning models generalize 
 ### 🎨 Personal Portfolio Website
 A modern, fully responsive portfolio showcasing my education, projects, skills, and learning journey. Features dark mode, typing animation, particle background, scroll reveals, and an interactive HTML CV.
 
-- 🌐 **Live:** [dchaity.github.io](https://dchaity.github.io)
+- 🌐 **Live:** [dchaity.github.io](https://heroic-nougat-b52166.netlify.app)
 - 🛠 **Tech Stack:** HTML5 · CSS3 · JavaScript · Particles.js
 
 ---
@@ -122,7 +122,7 @@ A modern, fully responsive portfolio showcasing my education, projects, skills, 
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-dchaity.github.io-7c6b9b?style=for-the-badge)](heroic-nougat-b52166.netlify.app)
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-dchaity.github.io-7c6b9b?style=for-the-badge)](https://heroic-nougat-b52166.netlify.app)
 [![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-Chaiti_Das-0A66C2?style=for-the-badge)](https://www.linkedin.com/in/chaity-das-682bb32a3)
 [![Email](https://img.shields.io/badge/📧_Email-dchaity240@gmail.com-EA4335?style=for-the-badge)](mailto:dchaity240@gmail.com)
 
